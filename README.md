@@ -22,7 +22,7 @@ In a growing telecommunications company using techologies as:
 - [![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python&link=https://www.python.org/)](https://www.python.org/)
 - [![R-CRAN](https://img.shields.io/badge/-RCRAN-white?style=flat-square&logo=RStudio&link=https://cran.r-project.org/)](https://cran.r-project.org/)
 
-### 🌱 ... and I’m currently learning Artificial Inteligence programming and Big Data.
+### 🌱 ... and I’m also learning Artificial Inteligence programming and Big Data.
 So I'm pleased improving my skills and increasing my network on these fields.
 
 ### 📫 Reach me on:
