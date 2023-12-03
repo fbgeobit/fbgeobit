@@ -26,6 +26,7 @@ In a growing telecommunications company using techologies as:
 So I'm pleased improving my skills and increasing my network on these fields.
 
 ### 📫 Reach me on:
+<a rel="me" href="https://mastodon.social/@Geobit"></a>
 [![Mastodon Badge](https://img.shields.io/badge/-Mastodon-0077B5?style=plastic&logo=Mastodon&logoColor=white&link=https://mastodon.social/@Geobit/)](https://mastodon.social/@Geobit/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-barreiro-phd/)](https://www.linkedin.com/in/fernando-barreiro-phd/)
 
